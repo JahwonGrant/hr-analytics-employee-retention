@@ -73,4 +73,4 @@ Control
 Built by Jahwon Grant – MBA Candidate & Data Analyst focused on turning HR data into business strategy.
 
 
-The hidden cost of Turnover:predictive modeling in HR
+The hidden cost of Turnover:redictive modeling in HR
