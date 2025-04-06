@@ -43,9 +43,9 @@ Analyze
 - Use statistical tests and data visualization to validate hypotheses
 
 Improve
-- Engineer new features to improve model accuracy (e.g., satisfaction scores, tenure buckets)
+- Engineer new features to improve model accuracy (satisfaction scores, tenure buckets)
 - Build and evaluate classification models (Logistic Regression, Random Forest, XGBoost)
-- Recommend targeted HR strategies based on model outputs (e.g., focus on overtime reduction, improving work-life balance)
+- Recommend targeted HR strategies based on model outputs (focus on overtime reduction, improving work-life balance)
 
 Control
 - Design Power BI or Tableau dashboards to monitor ongoing attrition trends
