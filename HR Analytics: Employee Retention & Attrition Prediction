@@ -1,0 +1,38 @@
+HR Analytics: Employee Retention & Attrition Prediction
+
+ 📊 Project Overview
+This project analyzes employee attrition using HR data to identify key factors contributing to turnover. The goal is to uncover insights that can help reduce attrition and improve employee engagement, retention, and productivity.
+
+ 🎯 Objectives
+- Analyze HR data to identify patterns of employee attrition  
+- Build a machine learning model to predict attrition risk  
+- Deliver insights through visual dashboards for HR executives  
+- Demonstrate full-cycle analytics from data to business value  
+
+🧠 Key Business Questions
+- What employee characteristics are associated with high attrition?  
+- Which departments or job roles have the highest turnover?  
+- How do satisfaction, work-life balance, and tenure impact attrition?  
+- Can we predict who is most likely to leave next?  
+
+🧰 Tools & Technologies
+- Languages: Python, SQL (optional)  
+- Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost  
+- Dashboards: Power BI or Tableau  
+- Platform: Jupyter Notebooks + GitHub  
+
+📦 Project Structure
+
+hr-analytics-employee-retention/
+│
+├── data/                              # HR dataset (IBM attrition data)
+├── notebooks/
+│   └── 01_eda_attrition.ipynb         # Exploratory analysis & visualization
+│   └── 02_modeling_attrition.ipynb    # ML classification model
+├── dashboards/
+│   └── executive_dashboard.pbix       # Power BI or Tableau dashboard
+├── reports/
+│   └── executive_summary.pdf          # 1-page business insight summary
+├── images/                            # Visuals for README and storytelling
+├── src/                               # Python scripts (cleaning, utils)
+└── README.md
