@@ -9,16 +9,16 @@ This project analyzes employee attrition using HR data to identify key factors c
 - Deliver insights through visual dashboards for HR executives
 - Demonstrate full-cycle analytics from data to business value
 
-🧠 Key Business Questions I have
+🧠 Key Business Questions that raise concerns 
 - What employee characteristics are associated with high attrition?
 - Which departments or job roles have the highest turnover?
 - How do satisfaction, work-life balance, and tenure impact attrition?
 - Can we predict who is most likely to leave next?
 
 🧰 Tools & Technologies I will be using
-- Languages: Python, SQL (optional)
+- Languages: Python, SQL (Will define and document after reviewing the dataset)
 - Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost
-- Dashboards: Power BI or Tableau
+- Dashboards: Power BI or Tableau ( Will define post analysis of dataset)
 - Platform: Jupyter Notebooks + GitHub
 
 📁 Dataset
@@ -63,7 +63,7 @@ Control
 - Overtime and dissatisfaction were top drivers of attrition
 - Prediction model had XX% accuracy (precision-focused)
 
-📄 Future Work
+📄 Future Work ideas
 - Integrate synthetic engagement survey data
 - NLP on exit interviews (if data available)
 - Time-series trend of attrition over months/years
@@ -73,4 +73,4 @@ Control
 Built by Jahwon Grant – MBA Candidate & Data Analyst focused on turning HR data into business strategy.
 
 
-The hidden cost of Turnover:redictive modeling in HR
+The Hidden Cost of Turnover:Predictive modeling in HR
