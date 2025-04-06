@@ -1,6 +1,6 @@
 HR Analytics: Employee Retention & Attrition Prediction
 
-📊 Project Overview
+📊 Project Overview:
 This project analyzes employee attrition using HR data to identify key factors contributing to turnover. The goal is to uncover insights that can help reduce attrition and improve employee engagement, retention, and productivity.
 
 🎯 Objectives for this project
