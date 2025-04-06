@@ -21,23 +21,6 @@ This project analyzes employee attrition using HR data to identify key factors c
 - Dashboards: Power BI or Tableau
 - Platform: Jupyter Notebooks + GitHub
 
-📦 Project Structure
-
-hr-analytics-employee-retention/
-│
-├── data/                              # HR dataset (IBM attrition data)
-├── notebooks/
-│   └── 01_eda_attrition.ipynb         # Exploratory analysis & visualization
-│   └── 02_modeling_attrition.ipynb    # ML classification model
-├── dashboards/
-│   └── executive_dashboard.pbix       # Power BI or Tableau dashboard
-├── reports/
-│   └── executive_summary.pdf          # 1-page business insight summary
-├── images/                            # Visuals for README and storytelling
-├── src/                               # Python scripts (cleaning, utils)
-└── README.md
-
-
 📁 Dataset
 IBM HR Analytics Employee Attrition & Performance  
 - Source: [Kaggle Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)  
