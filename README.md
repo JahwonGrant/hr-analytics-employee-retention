@@ -60,7 +60,7 @@ Control
 
 🧠 Key Takeaways (to include)
 - X% of attrition came from 2 job roles
-- Overtime and dissatisfaction were top drivers of attrition
+- Overtime and dissatisfaction were top drivers of attrition ( Example insight) 
 - Prediction model had XX% accuracy (precision-focused)
 
 📄 Future Work ideas
